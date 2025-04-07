@@ -1,2 +1,2 @@
-bailudbaops/bailureg:latest
+mongodb
 
